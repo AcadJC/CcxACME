@@ -1,0 +1,2 @@
+E:\source\repos_public\CcxACME\resources\topic2\vs19\game capp\Debug\game capp.exe
+E:\source\repos_public\CcxACME\resources\topic2\vs19\game capp\Debug\game capp.pdb

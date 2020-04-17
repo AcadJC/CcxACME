@@ -1,0 +1,5 @@
+﻿  common.cpp
+  main.cpp
+E:\source\repos_public\CcxACME\resources\topic2\src\main.cpp(14,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  game capp.vcxproj -> E:\source\repos_public\CcxACME\resources\topic2\vs19\game capp\Debug\game capp.exe
