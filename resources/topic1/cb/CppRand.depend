@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587134238 source:e:\source\repos_public\ccxacme\resources\topic1\src\stdafx.cpp
+	"stdafx.h"
+
+1587134682 e:\source\repos_public\ccxacme\resources\topic1\src\stdafx.h
+	<cmath>
+	<ctime>
+	<cstdlib>
+
+1587135269 source:e:\source\repos_public\ccxacme\resources\topic1\src\main.cpp
+	"stdafx.h"
+	<iostream>
+
